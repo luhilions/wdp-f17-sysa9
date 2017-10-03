@@ -13,49 +13,27 @@
     <title>CSS Table Styling</title>
     
     <style type="text/css">
-
-        
-
-      #main-headline {
-
-        text-align:center;
-
-        color: blue;
-
+     
+      .glossary {
+        width: 350px;
+        border-width: 4px;
+        border-style: dotted;
+        border-color: purple;
       }
-
-
-
-      .place-description {
-
-        font-family: Verdana;
-
-        color: olive;
-
+      
+      th {
+        border-wdth: 2px;
+        border-style:solid;
       }
-
-      .person-description {
-
-        color: purple;
-
+      td {
+        border-width: 2px;
+        border-style: dashed;
+      }
+      .collapse {
+          border-collapse: collapse;
       }
 
       
-
-      .important-point {
-
-        text-decoration: underline;
-
-      }
-
-      
-
-      .italisized-words {
-
-        font-style: italic;
-
-      }
-
         
 
   </head>
@@ -74,7 +52,7 @@
 
 
 
-<table border="1">
+<table class="collapse" border="1">
 
   <caption>Five Day Forecast</caption>
   
