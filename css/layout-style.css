@@ -60,7 +60,7 @@
     }
 
 
-    a:link { color: blue; }
+    a:link { color: blue; font-weight: bold;}
     a:visited { color: green; }
     a:hover { color: orange; text-decoration: none; }
     a:active { color: red; }
