@@ -25,7 +25,6 @@
 
 
  .main {
-
     height: 350px; 
     margin: 0px auto;
 
@@ -67,8 +66,8 @@
 
 
   body {
-     background-image: url('../images/orange.jpg');
-      background-color: gray;
+     background-image: url('../images/texture.jpg');
+      background-color: lightblue;
       }
 
     }
