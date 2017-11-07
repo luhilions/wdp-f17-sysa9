@@ -60,9 +60,6 @@
     }
 
 
-
-   
-
     a:link { color: blue; }
     a:visited { color: green; }
     a:hover { color: orange; text-decoration: none; }
@@ -70,12 +67,9 @@
 
 
   body {
-
-    background-image: url('images/texture.jpg');
-    background-color: gray;
+     background-image: url('../images/orange.jpg');
+      background-color: gray;
+      }
 
     }
-
-    /* This is my css comment. */  
-
 
