@@ -18,21 +18,21 @@ z-index: 1;
 
 .secondcard {
   position: absolute;
-  top: 40px;
+  top: 50px;
   left: 110px;
   z-index: 2;
 }
 
 .thirdcard {
   position: absolute;
-  top: 40px;
+  top: 60px;
   left: 110px;
   z-index: 3;
 }
 
 .fourthcard {
   position: absolute;
-  top: 40px;
+  top: 70px;
   left: 110px;
   z-index: 4;
 }
