@@ -44,9 +44,14 @@ left: 110px;
 z-index: 5;
 }
 
+ body {
+   background-image: url('../images/gradient.jpg');
+   background-color: lightblue;
+      }
+
 
 .gradient { 
   background-image: url('../img/gradient.jpg');
   background-repeat: repeat-x;
-  background-color: gray;
+  background-color: lightblue;
 } 
