@@ -9,3 +9,37 @@ top: 25px;
 left: 25px;
 }
 
+.backcard {  
+position: absolute;  
+top: 40px;
+left: 110px;
+z-index: 1;
+}
+
+.secondcard {
+  position: absolute;
+  top: 40px;
+  left: 110px;
+  z-index: 2;
+}
+
+.thirdcard {
+  position: absolute;
+  top: 40px;
+  left: 110px;
+  z-index: 3;
+}
+
+.fourthcard {
+  position: absolute;
+  top: 40px;
+  left: 110px;
+  z-index: 4;
+}
+
+
+.gradient { 
+  background-image: url('../img/gradient.jpg');
+  background-repeat: repeat-x;
+  background-color: gray;
+} 
